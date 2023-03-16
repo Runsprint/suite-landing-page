@@ -1,0 +1,19 @@
+body{
+    font-family: 'Epilogue', sans-serif;
+}
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 32px  16px;
+}
+.header_button{
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.14px;
+    color: #172339;
+    background-color: #ffffff;
+    height: 48px;
+    width: 182px;
+    border-radius: 6px;
+}
