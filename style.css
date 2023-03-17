@@ -18,7 +18,7 @@ header{
     border-radius: 6px;
 }
 .first-div{
-    
+    margin-top: 56px
 }
 .curve1{
     width: 151px;
@@ -65,6 +65,7 @@ p{
     width: 343px;
     height: 240px;
     margin-left:16px;
+    margin-top: 34px;
 }
 .divs{
     display: flex;
@@ -88,6 +89,76 @@ h3{
     letter-spacing: 2.5px;
     text-align: center;
 }
-.jaramy{
+
+.man{
+    background-image: url(./assets/pattern-blur.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
     width: 252px;
+    position: relative;
+    top: 220px;
+    left: 61px;
+    height: 402px;
+}
+.black{
+    background-color: #172339;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    width: 375px; 
+    padding-top: 200px;
+    border-radius: 15px;
+}
+.curve2{
+    width: 49.32px;
+    margin-top: 40px;
+}
+.lasth1{
+    text-align: center;
+    margin-top: 47px;
+}
+.lastp{
+    color: #F3EDE7;
+    text-align: center;
+    width: 343px;
+    line-height: 32px;
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+h4{
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 32px;
+    letter-spacing: -0.18px;
+}
+.pp{
+    text-align: center;
+    color: #F3EDE7;
+    line-height: 26px;
+    letter-spacing: 2.5px;
+    margin-bottom: 64px;
+}
+footer{
+    width: 100%;
+    background-color: #F3EDE7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.last_logo{
+    margin-top: 56px;
+}
+h6{
+    color: #49566D;
+    margin: 33px;
+   
+}
+.icons{
+    display: flex;
+    gap: 33px;
+    margin-bottom: 83px;
 }
